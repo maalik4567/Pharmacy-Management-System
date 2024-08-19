@@ -1,0 +1,44 @@
+C:\Users\ahmed\source\repos\Grand project\Grand project\bin\Debug\Grand project.exe.config
+C:\Users\ahmed\source\repos\Grand project\Grand project\bin\Debug\Grand project.exe
+C:\Users\ahmed\source\repos\Grand project\Grand project\bin\Debug\Grand project.pdb
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand project.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand_project.Form1.resources
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand_project.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand project.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand project.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand project.exe
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand project.pdb
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand_project.login.resources
+C:\Users\ahmed\source\repos\Grand project\Grand project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand project.csproj.CopyComplete
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand_project.stock.resources
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand_project.employee.resources
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand_project.billing.resources
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand_project.home.resources
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand_project.Manufacturers.resources
+C:\Users\ahmed\source\repos\Grand project\Grand project\bin\Debug\Grand project.exe.manifest
+C:\Users\ahmed\source\repos\Grand project\Grand project\bin\Debug\Grand project.application
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand project.exe.manifest
+C:\Users\ahmed\source\repos\Grand project\Grand project\obj\Debug\Grand project.application
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.Manufacturers.resources
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.billing.resources
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.employee.resources
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.Form1.resources
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.home.resources
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.login.resources
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.Properties.Resources.resources
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.stock.resources
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand project.csproj.GenerateResource.cache
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand project.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand project.exe
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand project.pdb
+C:\Users\irfan\Downloads\Grand project\Grand project\bin\Debug\Grand project.exe.config
+C:\Users\irfan\Downloads\Grand project\Grand project\bin\Debug\Grand project.exe.manifest
+C:\Users\irfan\Downloads\Grand project\Grand project\bin\Debug\Grand project.application
+C:\Users\irfan\Downloads\Grand project\Grand project\bin\Debug\Grand project.exe
+C:\Users\irfan\Downloads\Grand project\Grand project\bin\Debug\Grand project.pdb
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand project.exe.manifest
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand project.application
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand project.csproj.CopyComplete
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand project.csprojAssemblyReference.cache
+C:\Users\irfan\Downloads\Grand project\Grand project\obj\Debug\Grand_project.Sales.resources
